@@ -39,3 +39,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 *.tsbuildinfo
 dist/tsconfig.build.tsbuildinfo
+.DS_Store
