@@ -1,10 +1,10 @@
 {
-  "name": "Nest JS Starter API",
+  "name": "nest-js-starter-api",
   "version": "0.0.1",
   "description": "",
   "author": "fredy_german",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
